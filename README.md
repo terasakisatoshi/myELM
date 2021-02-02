@@ -1,3 +1,3 @@
 # myELM
 
-https://elm-lang.org/examples
+These codes are based on https://elm-lang.org/examples
